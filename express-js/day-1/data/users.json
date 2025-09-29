@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Amit Mishra",
+    "email": "amit.mishra@example.com",
+    "age": 28,
+    "isActive": true
+  },
+  {
+    "id": "2",
+    "name": "Neha Verma",
+    "email": "neha.verma@example.com",
+    "age": 32,
+    "isActive": false
+  },
+  {
+    "id": "3",
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@example.com",
+    "age": 16,
+    "isActive": true
+  },
+  {
+    "id": "4",
+    "name": "Madhuri Dixit",
+    "email": "madhuri.dixit@example.com",
+    "age": 55,
+    "isActive": false
+  },
+  {
+    "id": "5",
+    "name": "Alia Bhatt",
+    "email": "alia.bhatt@example.com",
+    "age": 27,
+    "isActive": false
+  },
+  {
+    "id": "6b167e6e-b27c-414c-8719-7c18a6742cb7",
+    "name": "Tom Cruise",
+    "email": "tom.cruise@example.com",
+    "age": 60,
+    "isActive": true
+  }
+]
